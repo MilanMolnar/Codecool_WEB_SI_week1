@@ -1,0 +1,18 @@
+﻿@page
+@model TweetCool.Pages.FeedModel
+@{
+    ViewData["Title"] = "Feed";
+}
+
+
+
+@foreach (var username in FeedModel.Messages.Keys)
+{
+    <h3 style="color: white; font-size:x-large"> <b>@username:</b></h3>
+    <ul style="background: #33aeff; padding: 10px;border-radius: 7px">
+        @foreach (var message in FeedModel.Messages[username])
+        {
+            <li style="color:white; background: #33aeff; padding: 2px; margin-left: 20px; width:40%">@message.Time: <b>@message.Text</b></li>
+        }
+    </ul>
+}

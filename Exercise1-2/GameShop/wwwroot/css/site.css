@@ -116,4 +116,24 @@ div.desc {
     box-shadow: 0px 0px 0px #777;
 }
 
+ol {
+    background: #ff9999;
+    padding: 10px;
+}
 
+ul {
+    background: #3399ff;
+    padding: 15px;
+    border-radius: 7px;
+}
+
+li {
+    background: #3399ff;
+    padding: 2px;
+    margin-left: 35px;
+}
+
+ul li {
+    background: #3399ff;
+    margin: 5px;
+}

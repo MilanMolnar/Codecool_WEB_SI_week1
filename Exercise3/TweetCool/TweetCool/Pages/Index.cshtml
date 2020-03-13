@@ -1,0 +1,22 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div>
+    <form method="post">
+        <label for="username" style="color:white; margin-left:28px; margin-top:56px">
+            <b>Username:</b>
+            <input type="text" name="username" required placeholder="display name" />
+        </label><br>
+        <label for="message" style="color:white;">
+            <b>Your message:</b>
+            <input type="text" name="message" required placeholder="message" size="50" height="5"/>
+        </label>
+        <br>
+        <button id="button" style="margin-left:112px">
+            Tweet
+        </button>
+    </form>
+</div>

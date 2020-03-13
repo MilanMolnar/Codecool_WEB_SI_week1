@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Milan developer\\Desktop\\FirstASP_WebApp_Razor\\WEB_Exercise_2\\GameShop\\GameShop\\GameShop.csproj": {}
+    "C:\\Users\\Milan developer\\Desktop\\FirstASP_WebApp_Razor\\WEB_Exercise_2\\Exercise1-2\\GameShop\\GameShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Milan developer\\Desktop\\FirstASP_WebApp_Razor\\WEB_Exercise_2\\GameShop\\GameShop\\GameShop.csproj": {
+    "C:\\Users\\Milan developer\\Desktop\\FirstASP_WebApp_Razor\\WEB_Exercise_2\\Exercise1-2\\GameShop\\GameShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Milan developer\\Desktop\\FirstASP_WebApp_Razor\\WEB_Exercise_2\\GameShop\\GameShop\\GameShop.csproj",
+        "projectUniqueName": "C:\\Users\\Milan developer\\Desktop\\FirstASP_WebApp_Razor\\WEB_Exercise_2\\Exercise1-2\\GameShop\\GameShop.csproj",
         "projectName": "GameShop",
-        "projectPath": "C:\\Users\\Milan developer\\Desktop\\FirstASP_WebApp_Razor\\WEB_Exercise_2\\GameShop\\GameShop\\GameShop.csproj",
+        "projectPath": "C:\\Users\\Milan developer\\Desktop\\FirstASP_WebApp_Razor\\WEB_Exercise_2\\Exercise1-2\\GameShop\\GameShop.csproj",
         "packagesPath": "C:\\Users\\Milan developer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Milan developer\\Desktop\\FirstASP_WebApp_Razor\\WEB_Exercise_2\\GameShop\\GameShop\\obj\\",
+        "outputPath": "C:\\Users\\Milan developer\\Desktop\\FirstASP_WebApp_Razor\\WEB_Exercise_2\\Exercise1-2\\GameShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
